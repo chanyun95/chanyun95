@@ -30,8 +30,13 @@
     <div align= "center">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=chanyun95&bg_color=180,00000000,00000000&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanyun95&layout=compact&bg_color=180,00000000,00000000&title_color=ffffff&text_color=ffffff"
-           /> </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
+        <div align= "center"> 
+          ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanyun95&show_icons=true&theme=shadow_green)
+          <br>
+          ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanyun95&layout=compact)
+          
+          [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chanyun95)](https://solved.ac/chanyun95)
+        </div> 
     </div>
     
