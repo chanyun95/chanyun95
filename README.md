@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello&fontAlign=70&rotate=13&fontAlignY=25&descAlign=70.&descAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello&fontAlign=70&rotate=13&desc=Chanyun95's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 <div align="center">
   <br>
   <b>introduction</b>:raised_hand:
