@@ -1,11 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello&fontAlign=70&rotate=13&fontAlignY=25&desc=Chanyun's%20Profile&descAlign=60&descAlignY=44)
 <div align= "center">
     </div>
-    <--
-    <div style="text-align: left;"> 
+    <--<div style="text-align: left;"> 
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요! 개발자를 꿈꾸는 김찬윤입니다. </h2>  
-    </div>
-    -->
+    </div>-->
     <div style="text-align: left;">
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💪Skills </h2> <br> 
         <div  align= "center">
