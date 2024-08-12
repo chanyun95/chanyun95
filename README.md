@@ -46,7 +46,9 @@
             <br>
             <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chanyun95)](https://solved.ac/chanyun95">
             <br>
-            <img src="http://mazandi.herokuapp.com/api?handle=chanyun95&theme=cold"/>
-        </div> 
+        </div>
+    </div>
+    <div align="center">
+        <img src="https://ghchart.rshah.org/gray/chanyun95"/>
     </div>
     
