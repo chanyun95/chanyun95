@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
 Skills
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanyun95&show_icons=true&theme=shadow_green)
