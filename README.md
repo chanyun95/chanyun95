@@ -2,9 +2,12 @@
 <div align="center">
   <br>
   <b>introduction</b>:raised_hand:
+  안녕하세요! 개발자를 꿈꾸는 김찬윤 입니다.
   
   <br>
   :muscle:<b>Skills</b>
+  https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+  
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanyun95&show_icons=true&theme=shadow_green)
   <br>
