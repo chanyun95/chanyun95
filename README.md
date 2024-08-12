@@ -8,7 +8,7 @@
     <div style="text-align: left;">
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
         <div  align= "center">
-            :muscle:<b>Skills</b>
+            :muscle:<h4>Skills</h4>
             <br>
             :sparkles:<b>Platforms & Languages</b>
             <br>
@@ -22,7 +22,8 @@
             <img src=https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white>
             <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
             <br>
-            :hammer:Tools
+            :hammer:<h4>Tools</h4>
+            <br>
             <img src=https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white>
             <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white>
             <img src=https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white>
@@ -42,7 +43,10 @@
         <div align= "center"> 
             <img src="https://github-readme-stats.vercel.app/api?username=chanyun95&show_icons=true&theme=shadow_green"/>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanyun95&layout=compact"/>
+            <br>
             <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chanyun95)](https://solved.ac/chanyun95">
+            <br>
+            <img src="http://mazandi.herokuapp.com/api?handle=chanyun95&theme=cold"/>
         </div> 
     </div>
     
