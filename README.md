@@ -3,15 +3,11 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요! 개발자를 꿈꾸는 김찬윤입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
-        <li> 저는...</li>
-        <li> 저는 ...</li>
-    </div> 
     </div>
     <div style="text-align: left;">
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💪Skills </h2> <br> 
         <div  align= "center">
-            :sparkles:<b>Platforms & Languages</b>
+            :sparkles:<p><strong>Platforms & Languages</strong></p>
             <br>
             <img src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white>
             <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white>
@@ -23,7 +19,7 @@
             <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
             <img src=https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white>
             <br>
-            🛠<h4>Tools</h4>
+            🛠<p><strong>Tools</strong></p>
             <br>
             <img src=https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white>
             <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white>
@@ -35,8 +31,9 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center">
-        - 📧 [Gmail](mailto:cksdbs1515@gmail.com)
-        - 📝 [Notion](https://notion.so)
+        <a href="mailto:cksdbs1515@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+        </a>
     </div>  <br> 
     <div align= "center">  </div> 
     </div>
