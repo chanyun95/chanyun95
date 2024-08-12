@@ -7,7 +7,7 @@
     <div style="text-align: left;">
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💪Skills </h2> <br> 
         <div  align= "center">
-            :sparkles:<p><strong>Platforms & Languages</strong></p>
+            <p><strong>:sparkles:Platforms & Languages</strong></p>
             <br>
             <img src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white>
             <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white>
@@ -19,7 +19,7 @@
             <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
             <img src=https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white>
             <br>
-            🛠<p><strong>Tools</strong></p>
+            <p><strong>🛠Tools</strong></p>
             <br>
             <img src=https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white>
             <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white>
@@ -44,7 +44,9 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanyun95&layout=compact"/>
         </div>
     </div>
+    <br>
+    <br>
     <div align="center">
-        <img src="https://ghchart.rshah.org/gray/chanyun95"/>
+        <img src="https://ghchart.rshah.org/green/chanyun95"/>
     </div>
     
