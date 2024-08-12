@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello👋&fontAlign=70&rotate=13&fontAlignY=25&desc=chanyun95's%20GitHub&descAlign=70.&descAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello👋&fontAlign=70&rotate=13&fontAlignY=25&desc=chanyun95's%40GitHub&descAlign=70.&descAlignY=44)
 Skills
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanyun95&show_icons=true&theme=shadow_green)
