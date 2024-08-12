@@ -14,7 +14,7 @@
   <img src=https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white>
   <img src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white>
   <img src=https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white>
-  <img src=https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white>
+  <img src=https://img.shields.io/badge/Spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white>
   <img src=https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white>
   <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white>
   <img src=https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white>
